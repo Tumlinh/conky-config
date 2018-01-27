@@ -1,7 +1,8 @@
 # Conky config
----
 A simple conky configuration for displaying useful system information in a compact way.  
-Compatible with Numix theme.
+Compatible with Numix theme
+
+---
 
 ### How to
 + Clone this repo into your home directory
@@ -12,5 +13,7 @@ Compatible with Numix theme.
    ```
 
 ### Dependencies
-+ **conky**: obviously
-+ **hddtemp**: enables temperature display
++ `conky`: obviously
++ `hddtemp`: enables temperature display
+
+![Screenshot](/screenshot.png "Screenshot")
